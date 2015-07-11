@@ -1,7 +1,7 @@
 html, body {
-	background: #f5c9c9;
+	background: #54fff4;
 	font-family: 'Lato', sans-serif;
-	color: #6C6B6B;
+	color: #0026ff;
 	margin: 0px;
 	padding: 0px;
 	overflow-x: hidden;
@@ -24,7 +24,7 @@ p {
 	overflow: auto;
 	display: block;
 	clear:both;
-	background: #F2D02B;
+	background: #ff63b9;
 }
 
 .inner{
@@ -33,6 +33,7 @@ p {
 	margin: 0px auto;
 	overflow: auto;
 	display: block;
+	background: #2aff00;
 }
 
 .logo {
@@ -50,11 +51,12 @@ ul.menu {
 	float: right;
 	margin: 0;
 	padding: 0;
+	background: #0026ff;
 }
 
 ul.menu li {
 	float: left;
-	border-right: solid 1px #CCAF24;
+	border-right: solid 1px #ff63b9;
 }
 
 ul.menu li  a {
@@ -64,12 +66,12 @@ ul.menu li  a {
 	color: #fff;
 	padding: 20px;
 	display: block;
-	border-bottom: solid 5px #F2D02B;
+	border-bottom: solid 5px #ff63b9;
 }
 
 ul.menu li  a.selected {
-	background: #E0C128;
-	border-bottom: solid 5px #FF005B;
+	background: #ff63b9;
+	border-bottom: solid 5px #0026ff;
 }
 
 
